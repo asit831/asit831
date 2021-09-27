@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Asit Pritam Mohanty.
 - 👀 I’m interested in Software Development.
-- 🌱 I’m currently learning MERN.
+- 🌱 I’m currently learning New Technology...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @ mohantyasit202@gmail.com
 
